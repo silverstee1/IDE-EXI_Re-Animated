@@ -11,6 +11,17 @@ https://www.gc-forever.com/forums/viewtopic.php?t=4843
 You'll need to use Xilinx Impact or an XSVF player to flash the XC95144XL CPLD on the board using the JTAG header.
 Make sure you have the capacitors soldered on before flashing as it will likely fail flashing if they aren't on the board.
 
+6Pin clip that I use to making flashing painless https://www.aliexpress.us/item/3256805030490716.html
+
+You'll need either a Xilinx Platform cable such as this https://www.aliexpress.us/item/2251832404583497.html or Parallel port programmer to flash it via the Xilinx ISE in Impact, or some kind of XSVF Player that supports Flashing Xilinx XC95xxx CPLDs.
+
+Example of CheapTag Parallel Port III DIY JTAG Cable for use in Xilinx Impact.
+
+![cheaptag](https://github.com/user-attachments/assets/c3b4e171-6b5b-41e7-84b8-2d2daeb49067)
+
+
+  
+
 **Important**
 
 When using the adapter make sure to have the Latest Version of Swiss.

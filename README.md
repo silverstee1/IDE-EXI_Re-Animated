@@ -1,2 +1,76 @@
 # IDE-EXI_Re-Animated
 IDE-EXI for GameCube with front facing IDE connector slot.
+
+Inspired by the front facing version made by Megalomaniac.
+
+This uses the V2 IDE-EXI source released on GC-Forever and can be flashed directly as it is pin compatible
+with the old IDE-EXI stick design.
+
+https://www.gc-forever.com/forums/viewtopic.php?t=4843
+
+You'll need to use Xilinx Impact or an XSVF player to flash the XC95144XL CPLD on the board using the JTAG header.
+Make sure you have the capacitors soldered on before flashing as it will likely fail flashing if they aren't on the board.
+
+**Important**
+
+When using the adapter make sure to have the Latest Version of Swiss.
+
+https://github.com/emukidid/swiss-gc
+
+
+![kicad_g6jn60xyCd](https://github.com/user-attachments/assets/e48d86ef-7825-4ca5-904c-26c82cf879d2)
+
+
+![kicad_trGBMmJAJH](https://github.com/user-attachments/assets/e0d741aa-d3db-4362-bab1-34cb889fb254)
+
+
+
+IDE-EXI_Re-Animated BOM
+=====================================
+The PCB must be ordered (e.g. from jlcpcb) in 1.6mm thickness with surface finish ENIG at minimum.
+
+**3D Printed Case Enclosure**
+
+You'll need to 3D print the case enclosure Top and Bottom pieces from the Case folder to use it in your Memcard Slot preferably on an FDM printer, 
+the case screws are self tapping M2x4 pan head screws.
+
+**IDE-EXI_Re-Animated PCB**
+
+**C1:** 0402 0.1uF Capacitor (16V Min) - DigiKey Part# 490-3261-1-ND
+
+LCSC Part# C71629
+
+**C2:** 0402 0.1uF Capacitor (16V Min) - DigiKey Part# 490-3261-1-ND
+
+LCSC Part# C71629
+
+**R1:** 0402 100ohm Resistor - Digikey Part# 311-100LRCT-ND
+
+LCSC Part# C106232
+
+**R2:** 0402 10Kohm Resistor - Digikey Part# 1276-3431-1-ND
+
+LCSC Part# C60490
+
+**R3:** 0402 10Kohm Resistor - Digikey Part# 1276-3431-1-ND
+
+LCSC Part# C60490
+
+**R4:** 0402 14ohm Resistor - Digikey Part# P14.0LCT-ND
+
+LCSC Part# C400609
+
+**D1:** 0402 Blue Led 20ma (Dot on PCB footprint marks LED Cathode side) - Digikey Part# 1516-1215-1-ND
+
+LCSC Part # C965797
+
+**IDE Socket:** DigiKey Part# ED10529-ND
+
+LCSC Part# C9138
+
+**U1:** XC95144XL-10TQG100C CPLD - DigiKey Part# 122-1372-ND
+
+LCSC Part# C45126
+
+CPLD's from link I've ordered before that worked
+Aliexpress: https://www.aliexpress.us/item/3256804827509319.html

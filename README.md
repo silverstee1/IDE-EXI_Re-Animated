@@ -17,7 +17,8 @@ You'll need either a Xilinx Platform cable such as this https://www.aliexpress.u
 
 Example of CheapTag Parallel Port III DIY JTAG Cable for use in Xilinx Impact.
 
-![cheaptag](https://github.com/user-attachments/assets/c3b4e171-6b5b-41e7-84b8-2d2daeb49067)
+![cheaptag](https://github.com/user-attachments/assets/b19aa58e-b4ea-41fd-97be-7089c8e5e8da)
+
 
 
   

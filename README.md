@@ -36,6 +36,12 @@ https://github.com/emukidid/swiss-gc
 ![kicad_trGBMmJAJH](https://github.com/user-attachments/assets/e0d741aa-d3db-4362-bab1-34cb889fb254)
 
 
+![20240814_181402](https://github.com/user-attachments/assets/237d5728-ccf0-4769-b158-24dc9456e817)
+
+
+![20240814_182543](https://github.com/user-attachments/assets/c732d98a-bd5f-402f-9872-d9e99b31a5ad)
+
+
 
 IDE-EXI_Re-Animated BOM
 =====================================

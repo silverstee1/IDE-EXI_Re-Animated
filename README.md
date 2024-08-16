@@ -19,6 +19,11 @@ Example of CheapTag Parallel Port III DIY JTAG Cable for use in Xilinx Impact.
 
 ![cheaptag](https://github.com/user-attachments/assets/b19aa58e-b4ea-41fd-97be-7089c8e5e8da)
 
+44pin to 40pin IDE adapter link: https://www.aliexpress.us/item/2251832650387594.html
+
+I used this to connect the 2.5 44pin M.2 Sata SSD converter board to the 40pin IDE connector on the IDE-EXI.
+
+2.5 44pin IDE to M.2 Sata SSD converter https://www.aliexpress.us/item/3256805714101693.html
 
 
   

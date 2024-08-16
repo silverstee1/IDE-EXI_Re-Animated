@@ -25,6 +25,8 @@ I used this to connect the 2.5 44pin M.2 Sata SSD converter board to the 40pin I
 
 2.5 44pin IDE to M.2 Sata SSD converter https://www.aliexpress.us/item/3256805714101693.html
 
+I connected a red wire from 3v3 on the IDE-EXI PCB to the positive side of the capacitor in the middle of the M.2 Sata SSD converter board to provide it power, this bypasses the 5v to 3.3v regulator onboard.
+
 
   
 

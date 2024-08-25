@@ -43,13 +43,13 @@ https://github.com/emukidid/swiss-gc
 ![kicad_trGBMmJAJH](https://github.com/user-attachments/assets/e0d741aa-d3db-4362-bab1-34cb889fb254)
 
 
-![20240824_174504](https://github.com/user-attachments/assets/b879853d-d784-417e-a1fa-363247889782)
+![20240824_174504](https://github.com/user-attachments/assets/114bf424-cf6c-41a5-9478-d6cce9f6daf9)
 
 
-![20240824_171630](https://github.com/user-attachments/assets/1092cb53-7e44-455a-875d-4378ec8e24a5)
+![20240824_171630](https://github.com/user-attachments/assets/7a13001e-d5c9-4ce6-90ac-f4971acfb30f)
 
-  
-![20240824_171306](https://github.com/user-attachments/assets/11ec568e-9be9-47ee-bdb3-1df30a6f5076)
+
+![20240824_171306](https://github.com/user-attachments/assets/be26dbb2-10c2-4c34-9710-566d474f7a4f)
 
 
 ![20240814_181402](https://github.com/user-attachments/assets/237d5728-ccf0-4769-b158-24dc9456e817)
